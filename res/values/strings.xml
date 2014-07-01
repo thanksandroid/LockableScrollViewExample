@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Lockable ScrollView</string>
+    <string name="enter_units">Enter units</string>
+    <string name="start_time">Start time:</string>
+    <string name="end_time">End time:</string>    
+
+</resources>
